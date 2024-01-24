@@ -1,0 +1,1 @@
+forge create --rpc-url https://rpc.ankr.com/eth_sepolia --private-key replace-with-your-metamask-private-key src/TokenDemo.sol:TokenDemo --etherscan-api-key replace-with-your-etherscan-api-key --verify
